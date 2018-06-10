@@ -39,4 +39,4 @@ Example:
 
 ### Integrating Native Modules into React Native 
 
-* [Native Modules Android](https://facebook.github.io/react-native/docs/native-modules-android.html)
+* [Native Android Modules in React](https://facebook.github.io/react-native/docs/native-modules-android.html)
