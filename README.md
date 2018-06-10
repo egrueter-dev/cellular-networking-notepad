@@ -40,3 +40,4 @@ Example:
 ### Integrating Native Modules into React Native 
 
 * [Native Android Modules in React](https://facebook.github.io/react-native/docs/native-modules-android.html)
+* [Basic React native file structure direction that Facebook hipster dickheads didnt put in React Native docs](https://www.reactnative.guide/16-custom-native-modules/16.1-android-native-module.html)
