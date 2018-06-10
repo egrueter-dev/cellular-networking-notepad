@@ -13,8 +13,11 @@ Answers queries about the state of network connectivity. It also notifies applic
 
 [NetworkRequest Object](https://developer.android.com/reference/android/net/NetworkRequest)
 
-Defines a request for a network, made through NetworkRequest.Builder and used to request a network via 
-```java ConnectivityManager.requestNetwork(NetworkRequest, PendingIntent)``` 
+Defines a request for a network, made through NetworkRequest.Builder and used to request a network via:
+
+```java 
+  ConnectivityManager.requestNetwork(NetworkRequest, PendingIntent)
+``` 
 
 or listen for changes via:
 
