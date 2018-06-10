@@ -1,9 +1,11 @@
 # Cellular Networking Notepad
 
-Notepad to collect research on React Native, Cellular Networking and developing apps for low resource settings.
+Notepad to collect research on React Native, cellular networking and developing apps for low resource settings.
 
 
-## Native Android Networking Resources:
+### Android Networking Documentation:
+[Android Connectivity Manager:](https://developer.android.com/reference/android/net/ConnectivityManager) (Answers queries about the state of network connectivity. It also notifies applications when network connectivity changes.)
+
 
 ### Valuable Stack Overflow Questions:
 
