@@ -35,3 +35,8 @@ Example:
 ### Valuable Stack Overflow Questions:
 
 [How to stay connected through mobile network after WIFI is connected on Android](https://stackoverflow.com/questions/29835240/how-to-stay-connected-through-mobile-network-after-wifi-is-connected-on-android/29837637#29837637)
+
+
+### Integrating Native Modules into React Native 
+
+* [Native Modules Android](https://facebook.github.io/react-native/docs/native-modules-android.html)
