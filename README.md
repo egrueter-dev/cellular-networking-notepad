@@ -40,6 +40,9 @@ Example:
 ### Common Errors:
 [React Native Android Build Failed SDK Location Not Found](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
 
+Third answer down worked:
+```echo "sdk.dir = /Users/$(whoami)/Library/Android/sdk" > android/local.properties```
+
 ### Integrating Native Modules into React Native 
 
 * [Native Android Modules in React](https://facebook.github.io/react-native/docs/native-modules-android.html)
