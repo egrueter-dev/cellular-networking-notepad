@@ -5,7 +5,7 @@ Notepad to collect research on React Native, cellular networking and developing 
 The business cases where wifi is not available and data is scarce are underserved. Organizations operating in these settings (working in refugee camps, for example) need to transfer data over whatever scarce network resources are available. 
 
 
-## Android Networking Documentation:
+## Android Networking:
 
 [Android Connectivity Manager](https://developer.android.com/reference/android/net/ConnectivityManager)
 
