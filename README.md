@@ -36,6 +36,9 @@ Example:
 
 [How to stay connected through mobile network after WIFI is connected on Android](https://stackoverflow.com/questions/29835240/how-to-stay-connected-through-mobile-network-after-wifi-is-connected-on-android/29837637#29837637)
 
+## React Native
+### Common Errors:
+[React Native Android Build Failed SDK Location Not Found](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
 
 ### Integrating Native Modules into React Native 
 
